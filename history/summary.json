@@ -1,0 +1,42 @@
+[
+  {
+    "name": "School 23",
+    "url": "https://school23.now.sh/",
+    "slug": "school-23",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 2016
+  },
+  {
+    "name": "Exchnanger",
+    "url": "https://exchanger.now.sh/",
+    "slug": "exchnanger",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 670
+  },
+  {
+    "name": "Stay At Home",
+    "url": "https://self-isolation.now.sh/",
+    "slug": "stay-at-home",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 626
+  },
+  {
+    "name": "Media Scout",
+    "url": "https://media-scout.netlify.app/",
+    "slug": "media-scout",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 93
+  },
+  {
+    "name": "Merge",
+    "url": "https://www.merge.rocks/",
+    "slug": "merge",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 177
+  }
+]
