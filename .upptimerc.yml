@@ -12,7 +12,7 @@ sites:
     url: https://app.tokenplace.com/
   - name: School 23
     url: https://school23.now.sh/
-  - name: Exchnanger (UAH currency converter)
+  - name: Exchanger (UAH currency converter)
     url: https://exchanger.now.sh/
   - name: Stay At Home (Self Isolation Todo)
     url: https://self-isolation.now.sh/
