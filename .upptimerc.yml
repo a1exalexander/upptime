@@ -1,23 +1,23 @@
 # Change these first
-owner: upptime # Your GitHub username
+owner: a1exalexander # Your GitHub username
 repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: School 23
+    url: https://school23.now.sh/
+  - name: Exchnanger
+    url: https://exchanger.now.sh/
+  - name: Stay At Home
+    url: https://self-isolation.now.sh/
+  - name: Media Scout
+    url: https://media-scout.netlify.app/
+  - name: Merge
+    url: https://www.merge.rocks/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
@@ -29,6 +29,5 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
