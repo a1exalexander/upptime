@@ -4,16 +4,30 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
+  - name: Merge (Our Team Website)
+    url: https://www.merge.rocks/
+  - name: Noviscient (Investment Management)
+    url: https://portal.noviscient.com/
+  - name: Tokenplace (Trading Terminal)
+    url: https://app.tokenplace.com/
   - name: School 23
     url: https://school23.now.sh/
-  - name: Exchnanger
+  - name: Exchnanger (UAH currency converter)
     url: https://exchanger.now.sh/
-  - name: Stay At Home
+  - name: Stay At Home (Self Isolation Todo)
     url: https://self-isolation.now.sh/
-  - name: Media Scout
+  - name: Tic Tac Toe (PvP Game)
+    url: https://tic-tac.vercel.app/
+  - name: Media Scout (Demo - Youtube manager)
     url: https://media-scout.netlify.app/
-  - name: Merge
-    url: https://www.merge.rocks/
+  - name: Merge Coworking (Demo)
+    url: https://a1exalexander.github.io/merge-draft/dist/
+  - name: Cloudbeat (Demo - Dashboard)
+    url: https://cloudbeat.now.sh/
+  - name: Biofunder (Demo - Investment Manager)
+    url: https://forcewizu.bitbucket.io/biofunder
+  - name: Biofunder (Demo - Back-office)
+    url: https://a1exalexander.github.io/riseeds-admin/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
