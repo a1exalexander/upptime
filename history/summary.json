@@ -1,42 +1,98 @@
 [
   {
+    "name": "Merge (Our Team Website)",
+    "url": "https://www.merge.rocks/",
+    "slug": "merge-our-team-website",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 113
+  },
+  {
+    "name": "Noviscient (Investment Management)",
+    "url": "https://portal.noviscient.com/",
+    "slug": "noviscient-investment-management",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 920
+  },
+  {
+    "name": "Tokenplace (Trading Terminal)",
+    "url": "https://app.tokenplace.com/",
+    "slug": "tokenplace-trading-terminal",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 185
+  },
+  {
     "name": "School 23",
     "url": "https://school23.now.sh/",
     "slug": "school-23",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1078
+    "time": 1220
   },
   {
-    "name": "Exchnanger",
+    "name": "Exchnanger (UAH currency converter)",
     "url": "https://exchanger.now.sh/",
-    "slug": "exchnanger",
+    "slug": "exchnanger-uah-currency-converter",
     "status": "up",
     "uptime": "100.00%",
-    "time": 386
+    "time": 154
   },
   {
-    "name": "Stay At Home",
+    "name": "Stay At Home (Self Isolation Todo)",
     "url": "https://self-isolation.now.sh/",
-    "slug": "stay-at-home",
+    "slug": "stay-at-home-self-isolation-todo",
     "status": "up",
     "uptime": "100.00%",
-    "time": 417
+    "time": 676
   },
   {
-    "name": "Media Scout",
+    "name": "Tic Tac Toe (PvP Game)",
+    "url": "https://tic-tac.vercel.app/",
+    "slug": "tic-tac-toe-pv-p-game",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 858
+  },
+  {
+    "name": "Media Scout (Demo - Youtube manager)",
     "url": "https://media-scout.netlify.app/",
-    "slug": "media-scout",
+    "slug": "media-scout-demo-youtube-manager",
     "status": "up",
     "uptime": "100.00%",
-    "time": 264
+    "time": 202
   },
   {
-    "name": "Merge",
-    "url": "https://www.merge.rocks/",
-    "slug": "merge",
+    "name": "Merge Coworking (Demo)",
+    "url": "https://a1exalexander.github.io/merge-draft/dist/",
+    "slug": "merge-coworking-demo",
     "status": "up",
     "uptime": "100.00%",
-    "time": 134
+    "time": 32
+  },
+  {
+    "name": "Cloudbeat (Demo - Dashboard)",
+    "url": "https://cloudbeat.now.sh/",
+    "slug": "cloudbeat-demo-dashboard",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 481
+  },
+  {
+    "name": "Biofunder (Demo - Investment Manager)",
+    "url": "https://forcewizu.bitbucket.io/biofunder",
+    "slug": "biofunder-demo-investment-manager",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 405
+  },
+  {
+    "name": "Biofunder (Demo - Back-office)",
+    "url": "https://a1exalexander.github.io/riseeds-admin/",
+    "slug": "biofunder-demo-back-office",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 11
   }
 ]
