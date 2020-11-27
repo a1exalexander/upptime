@@ -5,7 +5,7 @@
     "slug": "school-23",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2016
+    "time": 1078
   },
   {
     "name": "Exchnanger",
@@ -13,7 +13,7 @@
     "slug": "exchnanger",
     "status": "up",
     "uptime": "100.00%",
-    "time": 670
+    "time": 386
   },
   {
     "name": "Stay At Home",
@@ -21,7 +21,7 @@
     "slug": "stay-at-home",
     "status": "up",
     "uptime": "100.00%",
-    "time": 626
+    "time": 417
   },
   {
     "name": "Media Scout",
@@ -29,7 +29,7 @@
     "slug": "media-scout",
     "status": "up",
     "uptime": "100.00%",
-    "time": 93
+    "time": 264
   },
   {
     "name": "Merge",
@@ -37,6 +37,6 @@
     "slug": "merge",
     "status": "up",
     "uptime": "100.00%",
-    "time": 177
+    "time": 134
   }
 ]
