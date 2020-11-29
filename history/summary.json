@@ -5,7 +5,7 @@
     "slug": "merge-our-team-website",
     "status": "up",
     "uptime": "100.00%",
-    "time": 122
+    "time": 198
   },
   {
     "name": "Noviscient (Investment Management)",
@@ -13,7 +13,7 @@
     "slug": "noviscient-investment-management",
     "status": "up",
     "uptime": "100.00%",
-    "time": 846
+    "time": 831
   },
   {
     "name": "Tokenplace (Trading Terminal)",
@@ -21,7 +21,7 @@
     "slug": "tokenplace-trading-terminal",
     "status": "up",
     "uptime": "100.00%",
-    "time": 164
+    "time": 176
   },
   {
     "name": "School 23",
@@ -29,7 +29,7 @@
     "slug": "school-23",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1088
+    "time": 1161
   },
   {
     "name": "Exchanger (UAH currency converter)",
@@ -37,7 +37,7 @@
     "slug": "exchanger-uah-currency-converter",
     "status": "up",
     "uptime": "100.00%",
-    "time": 111
+    "time": 176
   },
   {
     "name": "Stay At Home (Self Isolation Todo)",
@@ -45,7 +45,7 @@
     "slug": "stay-at-home-self-isolation-todo",
     "status": "up",
     "uptime": "100.00%",
-    "time": 366
+    "time": 362
   },
   {
     "name": "Tic Tac Toe (PvP Game)",
@@ -53,7 +53,7 @@
     "slug": "tic-tac-toe-pv-p-game",
     "status": "up",
     "uptime": "100.00%",
-    "time": 459
+    "time": 406
   },
   {
     "name": "Media Scout (Demo - Youtube manager)",
@@ -61,7 +61,7 @@
     "slug": "media-scout-demo-youtube-manager",
     "status": "up",
     "uptime": "100.00%",
-    "time": 91
+    "time": 114
   },
   {
     "name": "Merge Coworking (Demo)",
@@ -69,7 +69,7 @@
     "slug": "merge-coworking-demo",
     "status": "up",
     "uptime": "100.00%",
-    "time": 88
+    "time": 104
   },
   {
     "name": "Cloudbeat (Demo - Dashboard)",
@@ -77,7 +77,7 @@
     "slug": "cloudbeat-demo-dashboard",
     "status": "up",
     "uptime": "100.00%",
-    "time": 283
+    "time": 278
   },
   {
     "name": "Biofunder (Demo - Investment Manager)",
@@ -85,7 +85,7 @@
     "slug": "biofunder-demo-investment-manager",
     "status": "up",
     "uptime": "100.00%",
-    "time": 306
+    "time": 349
   },
   {
     "name": "Biofunder (Demo - Back-office)",
@@ -93,6 +93,6 @@
     "slug": "biofunder-demo-back-office",
     "status": "up",
     "uptime": "100.00%",
-    "time": 10
+    "time": 21
   }
 ]
