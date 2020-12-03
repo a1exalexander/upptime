@@ -4,8 +4,16 @@
     "url": "https://www.merge.rocks/",
     "slug": "merge-our-team-website",
     "status": "up",
-    "uptime": "99.76%",
-    "time": 216
+    "uptime": "99.80%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 227,
+    "timeDay": 161,
+    "timeWeek": 227,
+    "timeMonth": 227,
+    "timeYear": 227
   },
   {
     "name": "Noviscient (Investment Management)",
@@ -13,7 +21,15 @@
     "slug": "noviscient-investment-management",
     "status": "up",
     "uptime": "100.00%",
-    "time": 822
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 832,
+    "timeDay": 895,
+    "timeWeek": 832,
+    "timeMonth": 832,
+    "timeYear": 832
   },
   {
     "name": "Tokenplace (Trading Terminal)",
@@ -21,7 +37,15 @@
     "slug": "tokenplace-trading-terminal",
     "status": "up",
     "uptime": "100.00%",
-    "time": 187
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 180,
+    "timeDay": 128,
+    "timeWeek": 180,
+    "timeMonth": 180,
+    "timeYear": 180
   },
   {
     "name": "School 23",
@@ -29,7 +53,15 @@
     "slug": "school-23",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1285
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1330,
+    "timeDay": 1732,
+    "timeWeek": 1330,
+    "timeMonth": 1330,
+    "timeYear": 1330
   },
   {
     "name": "Exchanger (UAH currency converter)",
@@ -37,7 +69,15 @@
     "slug": "exchanger-uah-currency-converter",
     "status": "up",
     "uptime": "100.00%",
-    "time": 152
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 146,
+    "timeDay": 109,
+    "timeWeek": 146,
+    "timeMonth": 146,
+    "timeYear": 146
   },
   {
     "name": "Stay At Home (Self Isolation Todo)",
@@ -45,7 +85,15 @@
     "slug": "stay-at-home-self-isolation-todo",
     "status": "up",
     "uptime": "100.00%",
-    "time": 267
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 248,
+    "timeDay": 111,
+    "timeWeek": 248,
+    "timeMonth": 248,
+    "timeYear": 248
   },
   {
     "name": "Tic Tac Toe (PvP Game)",
@@ -53,7 +101,15 @@
     "slug": "tic-tac-toe-pv-p-game",
     "status": "up",
     "uptime": "100.00%",
-    "time": 335
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 326,
+    "timeDay": 260,
+    "timeWeek": 326,
+    "timeMonth": 326,
+    "timeYear": 326
   },
   {
     "name": "Media Scout (Demo - Youtube manager)",
@@ -61,7 +117,15 @@
     "slug": "media-scout-demo-youtube-manager",
     "status": "up",
     "uptime": "100.00%",
-    "time": 143
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 164,
+    "timeDay": 314,
+    "timeWeek": 164,
+    "timeMonth": 164,
+    "timeYear": 164
   },
   {
     "name": "Merge Coworking (Demo)",
@@ -69,7 +133,15 @@
     "slug": "merge-coworking-demo",
     "status": "up",
     "uptime": "100.00%",
-    "time": 128
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 136,
+    "timeDay": 184,
+    "timeWeek": 136,
+    "timeMonth": 136,
+    "timeYear": 136
   },
   {
     "name": "Cloudbeat (Demo - Dashboard)",
@@ -77,7 +149,15 @@
     "slug": "cloudbeat-demo-dashboard",
     "status": "up",
     "uptime": "100.00%",
-    "time": 233
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 228,
+    "timeDay": 189,
+    "timeWeek": 228,
+    "timeMonth": 228,
+    "timeYear": 228
   },
   {
     "name": "Biofunder (Demo - Investment Manager)",
@@ -85,7 +165,15 @@
     "slug": "biofunder-demo-investment-manager",
     "status": "up",
     "uptime": "100.00%",
-    "time": 367
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 406,
+    "timeDay": 676,
+    "timeWeek": 406,
+    "timeMonth": 406,
+    "timeYear": 406
   },
   {
     "name": "Biofunder (Demo - Back-office)",
@@ -93,6 +181,14 @@
     "slug": "biofunder-demo-back-office",
     "status": "up",
     "uptime": "100.00%",
-    "time": 23
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 22,
+    "timeDay": 11,
+    "timeWeek": 22,
+    "timeMonth": 22,
+    "timeYear": 22
   }
 ]
