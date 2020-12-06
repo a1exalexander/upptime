@@ -4,16 +4,16 @@
     "url": "https://www.merge.rocks/",
     "slug": "merge-our-team-website",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 214,
-    "timeDay": 186,
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 232,
+    "timeDay": 429,
     "timeWeek": 249,
-    "timeMonth": 214,
-    "timeYear": 214
+    "timeMonth": 232,
+    "timeYear": 232
   },
   {
     "name": "Noviscient (Investment Management)",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 832,
-    "timeDay": 774,
-    "timeWeek": 825,
-    "timeMonth": 832,
-    "timeYear": 832
+    "time": 828,
+    "timeDay": 796,
+    "timeWeek": 827,
+    "timeMonth": 828,
+    "timeYear": 828
   },
   {
     "name": "Tokenplace (Trading Terminal)",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 181,
-    "timeDay": 206,
-    "timeWeek": 188,
-    "timeMonth": 181,
-    "timeYear": 181
+    "time": 182,
+    "timeDay": 194,
+    "timeWeek": 185,
+    "timeMonth": 182,
+    "timeYear": 182
   },
   {
     "name": "School 23",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1395,
-    "timeDay": 1888,
-    "timeWeek": 1614,
-    "timeMonth": 1395,
-    "timeYear": 1395
+    "time": 1422,
+    "timeDay": 1741,
+    "timeWeek": 1645,
+    "timeMonth": 1422,
+    "timeYear": 1422
   },
   {
     "name": "Exchanger (UAH currency converter)",
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 145,
-    "timeDay": 113,
-    "timeWeek": 154,
-    "timeMonth": 145,
-    "timeYear": 145
+    "time": 164,
+    "timeDay": 339,
+    "timeWeek": 159,
+    "timeMonth": 164,
+    "timeYear": 164
   },
   {
     "name": "Stay At Home (Self Isolation Todo)",
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 236,
-    "timeDay": 204,
-    "timeWeek": 180,
-    "timeMonth": 236,
-    "timeYear": 236
+    "time": 243,
+    "timeDay": 313,
+    "timeWeek": 174,
+    "timeMonth": 243,
+    "timeYear": 243
   },
   {
     "name": "Tic Tac Toe (PvP Game)",
@@ -105,11 +105,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 286,
-    "timeDay": 174,
-    "timeWeek": 211,
-    "timeMonth": 286,
-    "timeYear": 286
+    "time": 302,
+    "timeDay": 459,
+    "timeWeek": 242,
+    "timeMonth": 302,
+    "timeYear": 302
   },
   {
     "name": "Media Scout (Demo - Youtube manager)",
@@ -121,11 +121,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 141,
-    "timeDay": 57,
-    "timeWeek": 163,
-    "timeMonth": 141,
-    "timeYear": 141
+    "time": 142,
+    "timeDay": 147,
+    "timeWeek": 157,
+    "timeMonth": 142,
+    "timeYear": 142
   },
   {
     "name": "Merge Coworking (Demo)",
@@ -137,11 +137,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 131,
-    "timeDay": 99,
-    "timeWeek": 150,
-    "timeMonth": 131,
-    "timeYear": 131
+    "time": 137,
+    "timeDay": 192,
+    "timeWeek": 155,
+    "timeMonth": 137,
+    "timeYear": 137
   },
   {
     "name": "Cloudbeat (Demo - Dashboard)",
@@ -153,11 +153,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 227,
-    "timeDay": 349,
-    "timeWeek": 203,
-    "timeMonth": 227,
-    "timeYear": 227
+    "time": 240,
+    "timeDay": 374,
+    "timeWeek": 219,
+    "timeMonth": 240,
+    "timeYear": 240
   },
   {
     "name": "Biofunder (Demo - Investment Manager)",
@@ -169,11 +169,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 376,
-    "timeDay": 203,
-    "timeWeek": 406,
-    "timeMonth": 376,
-    "timeYear": 376
+    "time": 375,
+    "timeDay": 364,
+    "timeWeek": 390,
+    "timeMonth": 375,
+    "timeYear": 375
   },
   {
     "name": "Biofunder (Demo - Back-office)",
@@ -185,10 +185,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 20,
-    "timeDay": 16,
+    "time": 23,
+    "timeDay": 54,
     "timeWeek": 24,
-    "timeMonth": 20,
-    "timeYear": 20
+    "timeMonth": 23,
+    "timeYear": 23
   }
 ]
