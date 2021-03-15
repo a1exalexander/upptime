@@ -24,18 +24,20 @@
     "url": "https://portal.noviscient.com/",
     "icon": "https://favicons.githubusercontent.com/portal.noviscient.com",
     "slug": "noviscient-investment-management",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 838,
-    "timeDay": 873,
-    "timeWeek": 826,
-    "timeMonth": 809,
+    "timeDay": 823,
+    "timeWeek": 820,
+    "timeMonth": 808,
     "timeYear": 838,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-15": 0
+    }
   },
   {
     "name": "Tokenplace (Trading Terminal)",
