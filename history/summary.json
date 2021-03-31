@@ -181,7 +181,7 @@
     "url": "https://cloudbeat.now.sh/",
     "icon": "https://favicons.githubusercontent.com/cloudbeat.now.sh",
     "slug": "cloudbeat-demo-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
