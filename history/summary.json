@@ -201,18 +201,20 @@
     "url": "https://forcewizu.bitbucket.io/biofunder",
     "icon": "https://favicons.githubusercontent.com/forcewizu.bitbucket.io",
     "slug": "biofunder-demo-investment-manager",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 558,
-    "timeDay": 616,
-    "timeWeek": 1241,
-    "timeMonth": 614,
-    "timeYear": 558,
-    "dailyMinutesDown": {}
+    "time": 555,
+    "timeDay": 389,
+    "timeWeek": 1106,
+    "timeMonth": 599,
+    "timeYear": 555,
+    "dailyMinutesDown": {
+      "2021-05-04": 0
+    }
   },
   {
     "name": "Biofunder (Demo - Back-office)",
