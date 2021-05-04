@@ -62,11 +62,11 @@
     "url": "https://school23.now.sh/",
     "icon": "https://favicons.githubusercontent.com/school23.now.sh",
     "slug": "school-23",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 1694,
     "timeDay": 2030,
@@ -74,6 +74,7 @@
     "timeMonth": 1661,
     "timeYear": 1694,
     "dailyMinutesDown": {
+      "2021-05-04": 2,
       "2021-03-12": 24,
       "2021-02-12": 48
     }
@@ -83,10 +84,10 @@
     "url": "https://exchanger.now.sh/",
     "icon": "https://favicons.githubusercontent.com/exchanger.now.sh",
     "slug": "exchanger-uah-currency-converter",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 225,
@@ -95,6 +96,7 @@
     "timeMonth": 378,
     "timeYear": 225,
     "dailyMinutesDown": {
+      "2021-05-04": 2,
       "2021-02-12": 47
     }
   },
@@ -103,10 +105,10 @@
     "url": "https://self-isolation.now.sh/",
     "icon": "https://favicons.githubusercontent.com/self-isolation.now.sh",
     "slug": "stay-at-home-self-isolation-todo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 213,
@@ -115,6 +117,7 @@
     "timeMonth": 312,
     "timeYear": 213,
     "dailyMinutesDown": {
+      "2021-05-04": 1,
       "2021-02-21": 21,
       "2021-02-12": 45
     }
@@ -124,10 +127,10 @@
     "url": "https://tic-tac.vercel.app/",
     "icon": "https://favicons.githubusercontent.com/tic-tac.vercel.app",
     "slug": "tic-tac-toe-pv-p-game",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 193,
@@ -136,6 +139,7 @@
     "timeMonth": 168,
     "timeYear": 193,
     "dailyMinutesDown": {
+      "2021-05-04": 1,
       "2021-02-12": 44,
       "2021-01-15": 51
     }
@@ -181,9 +185,9 @@
     "url": "https://cloudbeat.now.sh/",
     "icon": "https://favicons.githubusercontent.com/cloudbeat.now.sh",
     "slug": "cloudbeat-demo-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -193,6 +197,7 @@
     "timeMonth": 305,
     "timeYear": 217,
     "dailyMinutesDown": {
+      "2021-05-04": 0,
       "2021-02-12": 42
     }
   },
