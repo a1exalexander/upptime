@@ -44,18 +44,20 @@
     "url": "https://app.tokenplace.com/",
     "icon": "https://favicons.githubusercontent.com/app.tokenplace.com",
     "slug": "tokenplace-trading-terminal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 210,
-    "timeDay": 197,
-    "timeWeek": 187,
-    "timeMonth": 201,
-    "timeYear": 210,
-    "dailyMinutesDown": {}
+    "time": 209,
+    "timeDay": 151,
+    "timeWeek": 177,
+    "timeMonth": 198,
+    "timeYear": 209,
+    "dailyMinutesDown": {
+      "2021-05-24": 0
+    }
   },
   {
     "name": "School 23",
