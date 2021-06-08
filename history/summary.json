@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/app.tokenplace.com",
     "slug": "tokenplace-trading-terminal",
     "status": "down",
-    "uptime": "92.55%",
+    "uptime": "92.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "52.83%",
-    "uptimeYear": "92.55%",
+    "uptimeMonth": "51.61%",
+    "uptimeYear": "92.37%",
     "time": 200,
     "timeDay": 98,
     "timeWeek": 92,
     "timeMonth": 145,
     "timeYear": 200,
     "dailyMinutesDown": {
-      "2021-06-08": 90,
+      "2021-06-08": 623,
       "2021-06-07": 1440,
       "2021-06-06": 1440,
       "2021-06-05": 1440,
@@ -185,18 +185,20 @@
     "url": "https://a1exalexander.github.io/merge-draft/dist/",
     "icon": "https://favicons.githubusercontent.com/a1exalexander.github.io",
     "slug": "merge-coworking-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 97,
-    "timeDay": 50,
-    "timeWeek": 87,
-    "timeMonth": 76,
+    "timeDay": 41,
+    "timeWeek": 80,
+    "timeMonth": 75,
     "timeYear": 97,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   },
   {
     "name": "Cloudbeat (Demo - Dashboard)",
@@ -247,17 +249,19 @@
     "url": "https://a1exalexander.github.io/riseeds-admin/",
     "icon": "https://favicons.githubusercontent.com/a1exalexander.github.io",
     "slug": "biofunder-demo-back-office",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 23,
-    "timeDay": 14,
-    "timeWeek": 35,
-    "timeMonth": 33,
+    "timeDay": 10,
+    "timeWeek": 31,
+    "timeMonth": 32,
     "timeYear": 23,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   }
 ]
