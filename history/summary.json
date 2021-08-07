@@ -58,7 +58,7 @@
     "timeMonth": 91,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2021-08-07": 53,
+      "2021-08-07": 56,
       "2021-08-06": 1440,
       "2021-08-05": 1440,
       "2021-08-04": 1440,
@@ -167,9 +167,9 @@
     "slug": "exchanger-uah-currency-converter",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 224,
     "timeDay": 72,
@@ -177,7 +177,7 @@
     "timeMonth": 217,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2021-08-07": 0,
+      "2021-08-07": 3,
       "2021-05-04": 28,
       "2021-02-12": 47
     }
